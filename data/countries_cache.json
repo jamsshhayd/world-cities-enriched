@@ -1,0 +1,1734 @@
+{
+  "Q889": {
+    "CountryQID": "Q889",
+    "CountryNameEn": "Afghanistan",
+    "CountryNameAr": "أفغانستان",
+    "IsoAlpha2": "AF",
+    "CapitalQID": "Q5838"
+  },
+  "Q668": {
+    "CountryQID": "Q668",
+    "CountryNameEn": "India",
+    "CountryNameAr": "الهند",
+    "IsoAlpha2": "IN",
+    "CapitalQID": "Q987"
+  },
+  "Q843": {
+    "CountryQID": "Q843",
+    "CountryNameEn": "Pakistan",
+    "CountryNameAr": "باكستان",
+    "IsoAlpha2": "PK",
+    "CapitalQID": "Q1362"
+  },
+  "Q227": {
+    "CountryQID": "Q227",
+    "CountryNameEn": "Azerbaijan",
+    "CountryNameAr": "أذربيجان",
+    "IsoAlpha2": "AZ",
+    "CapitalQID": "Q9248"
+  },
+  "Q794": {
+    "CountryQID": "Q794",
+    "CountryNameEn": "Iran",
+    "CountryNameAr": "إيران",
+    "IsoAlpha2": "IR",
+    "CapitalQID": "Q3616"
+  },
+  "Q222": {
+    "CountryQID": "Q222",
+    "CountryNameEn": "Albania",
+    "CountryNameAr": "ألبانيا",
+    "IsoAlpha2": "AL",
+    "CapitalQID": "Q19689"
+  },
+  "Q155": {
+    "CountryQID": "Q155",
+    "CountryNameEn": "Brazil",
+    "CountryNameAr": "البرازيل",
+    "IsoAlpha2": "BR",
+    "CapitalQID": "Q8678"
+  },
+  "Q262": {
+    "CountryQID": "Q262",
+    "CountryNameEn": "Algeria",
+    "CountryNameAr": "الجزائر",
+    "IsoAlpha2": "DZ",
+    "CapitalQID": "Q3561"
+  },
+  "Q1028": {
+    "CountryQID": "Q1028",
+    "CountryNameEn": "Morocco",
+    "CountryNameAr": "المغرب",
+    "IsoAlpha2": "MA",
+    "CapitalQID": "Q3551"
+  },
+  "Q30": {
+    "CountryQID": "Q30",
+    "CountryNameEn": "United States",
+    "CountryNameAr": "الولايات المتحدة",
+    "IsoAlpha2": "US",
+    "CapitalQID": "Q61"
+  },
+  "Q228": {
+    "CountryQID": "Q228",
+    "CountryNameEn": "Andorra",
+    "CountryNameAr": "أندورا",
+    "IsoAlpha2": "AD",
+    "CapitalQID": "Q1863"
+  },
+  "Q29": {
+    "CountryQID": "Q29",
+    "CountryNameEn": "Spain",
+    "CountryNameAr": "إسبانيا",
+    "IsoAlpha2": "ES",
+    "CapitalQID": "Q2807"
+  },
+  "Q916": {
+    "CountryQID": "Q916",
+    "CountryNameEn": "Angola",
+    "CountryNameAr": "أنغولا",
+    "IsoAlpha2": "AO",
+    "CapitalQID": "Q3897"
+  },
+  "Q45": {
+    "CountryQID": "Q45",
+    "CountryNameEn": "Portugal",
+    "CountryNameAr": "البرتغال",
+    "IsoAlpha2": "PT",
+    "CapitalQID": "Q597"
+  },
+  "Q928": {
+    "CountryQID": "Q928",
+    "CountryNameEn": "Philippines",
+    "CountryNameAr": "الفلبين",
+    "IsoAlpha2": "PH",
+    "CapitalQID": "Q1461"
+  },
+  "Q1036": {
+    "CountryQID": "Q1036",
+    "CountryNameEn": "Uganda",
+    "CountryNameAr": "أوغندا",
+    "IsoAlpha2": "UG",
+    "CapitalQID": "Q3894"
+  },
+  "Q1009": {
+    "CountryQID": "Q1009",
+    "CountryNameEn": "Cameroon",
+    "CountryNameAr": "الكاميرون",
+    "IsoAlpha2": "CM",
+    "CapitalQID": "Q3808"
+  },
+  "Q953": {
+    "CountryQID": "Q953",
+    "CountryNameEn": "Zambia",
+    "CountryNameAr": "زامبيا",
+    "IsoAlpha2": "ZM",
+    "CapitalQID": "Q3881"
+  },
+  "Q924": {
+    "CountryQID": "Q924",
+    "CountryNameEn": "Tanzania",
+    "CountryNameAr": "تنزانيا",
+    "IsoAlpha2": "TZ",
+    "CapitalQID": "Q3866"
+  },
+  "Q252": {
+    "CountryQID": "Q252",
+    "CountryNameEn": "Indonesia",
+    "CountryNameAr": "إندونيسيا",
+    "IsoAlpha2": "ID",
+    "CapitalQID": "Q3630"
+  },
+  "Q1030": {
+    "CountryQID": "Q1030",
+    "CountryNameEn": "Namibia",
+    "CountryNameAr": "ناميبيا",
+    "IsoAlpha2": "NA",
+    "CapitalQID": "Q3935"
+  },
+  "Q16": {
+    "CountryQID": "Q16",
+    "CountryNameEn": "Canada",
+    "CountryNameAr": "كندا",
+    "IsoAlpha2": "CA",
+    "CapitalQID": "Q1930"
+  },
+  "Q414": {
+    "CountryQID": "Q414",
+    "CountryNameEn": "Argentina",
+    "CountryNameAr": "الأرجنتين",
+    "IsoAlpha2": "AR",
+    "CapitalQID": "Q1486"
+  },
+  "Q865": {
+    "CountryQID": "Q865",
+    "CountryNameEn": "Taiwan",
+    "CountryNameAr": "تايوان",
+    "IsoAlpha2": "TW",
+    "CapitalQID": "Q1867"
+  },
+  "Q142": {
+    "CountryQID": "Q142",
+    "CountryNameEn": "France",
+    "CountryNameAr": "فرنسا",
+    "IsoAlpha2": "FR",
+    "CapitalQID": "Q90"
+  },
+  "Q298": {
+    "CountryQID": "Q298",
+    "CountryNameEn": "Chile",
+    "CountryNameAr": "تشيلي",
+    "IsoAlpha2": "CL",
+    "CapitalQID": "Q2887"
+  },
+  "Q419": {
+    "CountryQID": "Q419",
+    "CountryNameEn": "Peru",
+    "CountryNameAr": "بيرو",
+    "IsoAlpha2": "PE",
+    "CapitalQID": "Q2868"
+  },
+  "Q96": {
+    "CountryQID": "Q96",
+    "CountryNameEn": "Mexico",
+    "CountryNameAr": "المكسيك",
+    "IsoAlpha2": "MX",
+    "CapitalQID": "Q1489"
+  },
+  "Q399": {
+    "CountryQID": "Q399",
+    "CountryNameEn": "Armenia",
+    "CountryNameAr": "أرمينيا",
+    "IsoAlpha2": "AM",
+    "CapitalQID": "Q1953"
+  },
+  "Q159": {
+    "CountryQID": "Q159",
+    "CountryNameEn": "Russia",
+    "CountryNameAr": "روسيا",
+    "IsoAlpha2": "RU",
+    "CapitalQID": "Q649"
+  },
+  "Q21203": {
+    "CountryQID": "Q21203",
+    "CountryNameEn": "Aruba",
+    "CountryNameAr": "أروبا",
+    "IsoAlpha2": "AW",
+    "CapitalQID": "Q131243"
+  },
+  "Q408": {
+    "CountryQID": "Q408",
+    "CountryNameEn": "Australia",
+    "CountryNameAr": "أستراليا",
+    "IsoAlpha2": "AU",
+    "CapitalQID": "Q3114"
+  },
+  "Q145": {
+    "CountryQID": "Q145",
+    "CountryNameEn": "United Kingdom",
+    "CountryNameAr": "المملكة المتحدة",
+    "IsoAlpha2": "GB",
+    "CapitalQID": "Q84"
+  },
+  "Q179876": {
+    "CountryQID": "Q179876",
+    "CountryNameEn": "Kingdom of England",
+    "CountryNameAr": "مملكة إنجلترا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q172157"
+  },
+  "Q40": {
+    "CountryQID": "Q40",
+    "CountryNameEn": "Austria",
+    "CountryNameAr": "النمسا",
+    "IsoAlpha2": "AT",
+    "CapitalQID": "Q1741"
+  },
+  "Q183": {
+    "CountryQID": "Q183",
+    "CountryNameEn": "Germany",
+    "CountryNameAr": "ألمانيا",
+    "IsoAlpha2": "DE",
+    "CapitalQID": "Q586"
+  },
+  "Q218": {
+    "CountryQID": "Q218",
+    "CountryNameEn": "Romania",
+    "CountryNameAr": "رومانيا",
+    "IsoAlpha2": "RO",
+    "CapitalQID": "Q19660"
+  },
+  "Q34266": {
+    "CountryQID": "Q34266",
+    "CountryNameEn": "Russian Empire",
+    "CountryNameAr": "الإمبراطورية الروسية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q656"
+  },
+  "Q3431885": {
+    "CountryQID": "Q3431885",
+    "CountryNameEn": "Sallarid dynasty",
+    "CountryNameAr": "بنو سلار",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q180103"
+  },
+  "Q43": {
+    "CountryQID": "Q43",
+    "CountryNameEn": "Turkey",
+    "CountryNameAr": "تركيا",
+    "IsoAlpha2": "TR",
+    "CapitalQID": "Q3640"
+  },
+  "Q20": {
+    "CountryQID": "Q20",
+    "CountryNameEn": "Norway",
+    "CountryNameAr": "النرويج",
+    "IsoAlpha2": "NO",
+    "CapitalQID": "Q585"
+  },
+  "Q148": {
+    "CountryQID": "Q148",
+    "CountryNameEn": "People's Republic of China",
+    "CountryNameAr": "الصين",
+    "IsoAlpha2": "CN",
+    "CapitalQID": "Q956"
+  },
+  "Q398": {
+    "CountryQID": "Q398",
+    "CountryNameEn": "Bahrain",
+    "CountryNameAr": "البحرين",
+    "IsoAlpha2": "BH",
+    "CapitalQID": "Q3882"
+  },
+  "Q858": {
+    "CountryQID": "Q858",
+    "CountryNameEn": "Syria",
+    "CountryNameAr": "سوريا",
+    "IsoAlpha2": "SY",
+    "CapitalQID": "Q3766"
+  },
+  "Q902": {
+    "CountryQID": "Q902",
+    "CountryNameEn": "Bangladesh",
+    "CountryNameAr": "بنغلاديش",
+    "IsoAlpha2": "BD",
+    "CapitalQID": "Q1354"
+  },
+  "Q837": {
+    "CountryQID": "Q837",
+    "CountryNameEn": "Nepal",
+    "CountryNameAr": "نيبال",
+    "IsoAlpha2": "NP",
+    "CapitalQID": "Q3037"
+  },
+  "Q184": {
+    "CountryQID": "Q184",
+    "CountryNameEn": "Belarus",
+    "CountryNameAr": "بيلاروس",
+    "IsoAlpha2": "BY",
+    "CapitalQID": "Q2280"
+  },
+  "Q15180": {
+    "CountryQID": "Q15180",
+    "CountryNameEn": "Soviet Union",
+    "CountryNameAr": "الاتحاد السوفيتي",
+    "IsoAlpha2": "SU",
+    "CapitalQID": "Q649"
+  },
+  "Q31": {
+    "CountryQID": "Q31",
+    "CountryNameEn": "Belgium",
+    "CountryNameAr": "بلجيكا",
+    "IsoAlpha2": "BE",
+    "CapitalQID": "Q239"
+  },
+  "Q39": {
+    "CountryQID": "Q39",
+    "CountryNameEn": "Switzerland",
+    "CountryNameAr": "سويسرا",
+    "IsoAlpha2": "CH",
+    "CapitalQID": "Q70"
+  },
+  "Q242": {
+    "CountryQID": "Q242",
+    "CountryNameEn": "Belize",
+    "CountryNameAr": "بليز",
+    "IsoAlpha2": "BZ",
+    "CapitalQID": "Q3043"
+  },
+  "Q962": {
+    "CountryQID": "Q962",
+    "CountryNameEn": "Benin",
+    "CountryNameAr": "بنين",
+    "IsoAlpha2": "BJ",
+    "CapitalQID": "Q3799"
+  },
+  "Q971": {
+    "CountryQID": "Q971",
+    "CountryNameEn": "Republic of the Congo",
+    "CountryNameAr": "جمهورية الكونغو",
+    "IsoAlpha2": "CG",
+    "CapitalQID": "Q3844"
+  },
+  "Q1020": {
+    "CountryQID": "Q1020",
+    "CountryNameEn": "Malawi",
+    "CountryNameAr": "مالاوي",
+    "IsoAlpha2": "MW",
+    "CapitalQID": "Q3876"
+  },
+  "Q55": {
+    "CountryQID": "Q55",
+    "CountryNameEn": "Netherlands",
+    "CountryNameAr": "هولندا",
+    "IsoAlpha2": "NL",
+    "CapitalQID": "Q727"
+  },
+  "Q917": {
+    "CountryQID": "Q917",
+    "CountryNameEn": "Bhutan",
+    "CountryNameAr": "بوتان",
+    "IsoAlpha2": "BT",
+    "CapitalQID": "Q9270"
+  },
+  "Q750": {
+    "CountryQID": "Q750",
+    "CountryNameEn": "Bolivia",
+    "CountryNameAr": "بوليفيا",
+    "IsoAlpha2": "BO",
+    "CapitalQID": "Q2907"
+  },
+  "Q717": {
+    "CountryQID": "Q717",
+    "CountryNameEn": "Venezuela",
+    "CountryNameAr": "فنزويلا",
+    "IsoAlpha2": "VE",
+    "CapitalQID": "Q1533"
+  },
+  "Q225": {
+    "CountryQID": "Q225",
+    "CountryNameEn": "Bosnia and Herzegovina",
+    "CountryNameAr": "البوسنة والهرسك",
+    "IsoAlpha2": "BA",
+    "CapitalQID": "Q11194"
+  },
+  "Q963": {
+    "CountryQID": "Q963",
+    "CountryNameEn": "Botswana",
+    "CountryNameAr": "بوتسوانا",
+    "IsoAlpha2": "BW",
+    "CapitalQID": "Q3919"
+  },
+  "Q921": {
+    "CountryQID": "Q921",
+    "CountryNameEn": "Brunei",
+    "CountryNameAr": "بروناي",
+    "IsoAlpha2": "BN",
+    "CapitalQID": "Q9279"
+  },
+  "Q219": {
+    "CountryQID": "Q219",
+    "CountryNameEn": "Bulgaria",
+    "CountryNameAr": "بلغاريا",
+    "IsoAlpha2": "BG",
+    "CapitalQID": "Q472"
+  },
+  "Q38": {
+    "CountryQID": "Q38",
+    "CountryNameEn": "Italy",
+    "CountryNameAr": "إيطاليا",
+    "IsoAlpha2": "IT",
+    "CapitalQID": "Q220"
+  },
+  "Q403": {
+    "CountryQID": "Q403",
+    "CountryNameEn": "Serbia",
+    "CountryNameAr": "صربيا",
+    "IsoAlpha2": "RS",
+    "CapitalQID": "Q3711"
+  },
+  "Q965": {
+    "CountryQID": "Q965",
+    "CountryNameEn": "Burkina Faso",
+    "CountryNameAr": "بوركينا فاسو",
+    "IsoAlpha2": "BF",
+    "CapitalQID": "Q3777"
+  },
+  "Q36": {
+    "CountryQID": "Q36",
+    "CountryNameEn": "Poland",
+    "CountryNameAr": "بولندا",
+    "IsoAlpha2": "PL",
+    "CapitalQID": "Q270"
+  },
+  "Q213": {
+    "CountryQID": "Q213",
+    "CountryNameEn": "Czech Republic",
+    "CountryNameAr": "جمهورية التشيك",
+    "IsoAlpha2": "CZ",
+    "CapitalQID": "Q1085"
+  },
+  "Q804": {
+    "CountryQID": "Q804",
+    "CountryNameEn": "Panama",
+    "CountryNameAr": "بنما",
+    "IsoAlpha2": "PA",
+    "CapitalQID": "Q3306"
+  },
+  "Q836": {
+    "CountryQID": "Q836",
+    "CountryNameEn": "Myanmar",
+    "CountryNameAr": "ميانمار",
+    "IsoAlpha2": "MM",
+    "CapitalQID": "Q37400"
+  },
+  "Q805": {
+    "CountryQID": "Q805",
+    "CountryNameEn": "Yemen",
+    "CountryNameAr": "اليمن",
+    "IsoAlpha2": "YE",
+    "CapitalQID": "Q2471"
+  },
+  "Q967": {
+    "CountryQID": "Q967",
+    "CountryNameEn": "Burundi",
+    "CountryNameAr": "بوروندي",
+    "IsoAlpha2": "BI",
+    "CapitalQID": "Q3854"
+  },
+  "Q1037": {
+    "CountryQID": "Q1037",
+    "CountryNameEn": "Rwanda",
+    "CountryNameAr": "رواندا",
+    "IsoAlpha2": "RW",
+    "CapitalQID": "Q3859"
+  },
+  "Q1011": {
+    "CountryQID": "Q1011",
+    "CountryNameEn": "Cape Verde",
+    "CountryNameAr": "الرأس الأخضر",
+    "IsoAlpha2": "CV",
+    "CapitalQID": "Q3751"
+  },
+  "Q424": {
+    "CountryQID": "Q424",
+    "CountryNameEn": "Cambodia",
+    "CountryNameAr": "كمبوديا",
+    "IsoAlpha2": "KH",
+    "CapitalQID": "Q1850"
+  },
+  "Q1032": {
+    "CountryQID": "Q1032",
+    "CountryNameEn": "Niger",
+    "CountryNameAr": "النيجر",
+    "IsoAlpha2": "NE",
+    "CapitalQID": "Q3674"
+  },
+  "Q1000": {
+    "CountryQID": "Q1000",
+    "CountryNameEn": "Gabon",
+    "CountryNameAr": "الغابون",
+    "IsoAlpha2": "GA",
+    "CapitalQID": "Q3825"
+  },
+  "Q2277": {
+    "CountryQID": "Q2277",
+    "CountryNameEn": "Roman Empire",
+    "CountryNameAr": "الإمبراطورية الرومانية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q220"
+  },
+  "Q5785": {
+    "CountryQID": "Q5785",
+    "CountryNameEn": "Cayman Islands",
+    "CountryNameAr": "جزر كايمان",
+    "IsoAlpha2": "KY",
+    "CapitalQID": "Q172996"
+  },
+  "Q1033": {
+    "CountryQID": "Q1033",
+    "CountryNameEn": "Nigeria",
+    "CountryNameAr": "نيجيريا",
+    "IsoAlpha2": "NG",
+    "CapitalQID": "Q3787"
+  },
+  "Q929": {
+    "CountryQID": "Q929",
+    "CountryNameEn": "Central African Republic",
+    "CountryNameAr": "جمهورية إفريقيا الوسطى",
+    "IsoAlpha2": "CF",
+    "CapitalQID": "Q3832"
+  },
+  "Q685": {
+    "CountryQID": "Q685",
+    "CountryNameEn": "Solomon Islands",
+    "CountryNameAr": "جزر سليمان",
+    "IsoAlpha2": "SB",
+    "CapitalQID": "Q40921"
+  },
+  "Q657": {
+    "CountryQID": "Q657",
+    "CountryNameEn": "Chad",
+    "CountryNameAr": "تشاد",
+    "IsoAlpha2": "TD",
+    "CapitalQID": "Q3659"
+  },
+  "Q711": {
+    "CountryQID": "Q711",
+    "CountryNameEn": "Mongolia",
+    "CountryNameAr": "منغوليا",
+    "IsoAlpha2": "MN",
+    "CapitalQID": "Q23430"
+  },
+  "Q77": {
+    "CountryQID": "Q77",
+    "CountryNameEn": "Uruguay",
+    "CountryNameAr": "الأوروغواي",
+    "IsoAlpha2": "UY",
+    "CapitalQID": "Q1335"
+  },
+  "Q733": {
+    "CountryQID": "Q733",
+    "CountryNameEn": "Paraguay",
+    "CountryNameAr": "باراغواي",
+    "IsoAlpha2": "PY",
+    "CapitalQID": "Q2933"
+  },
+  "Q8733": {
+    "CountryQID": "Q8733",
+    "CountryNameEn": "Qing dynasty",
+    "CountryNameAr": "سلالة تشينغ الحاكمة",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q7334692"
+  },
+  "Q7462": {
+    "CountryQID": "Q7462",
+    "CountryNameEn": "Song dynasty",
+    "CountryNameAr": "سلالة سونغ الحاكمة",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q7223839"
+  },
+  "Q739": {
+    "CountryQID": "Q739",
+    "CountryNameEn": "Colombia",
+    "CountryNameAr": "كولومبيا",
+    "IsoAlpha2": "CO",
+    "CapitalQID": "Q2841"
+  },
+  "Q800": {
+    "CountryQID": "Q800",
+    "CountryNameEn": "Costa Rica",
+    "CountryNameAr": "كوستاريكا",
+    "IsoAlpha2": "CR",
+    "CapitalQID": "Q3070"
+  },
+  "Q970": {
+    "CountryQID": "Q970",
+    "CountryNameEn": "Comoros",
+    "CountryNameAr": "جزر القمر",
+    "IsoAlpha2": "KM",
+    "CapitalQID": "Q3901"
+  },
+  "Q974": {
+    "CountryQID": "Q974",
+    "CountryNameEn": "Democratic Republic of the Congo",
+    "CountryNameAr": "جمهورية الكونغو الديمقراطية",
+    "IsoAlpha2": "CD",
+    "CapitalQID": "Q3838"
+  },
+  "Q26988": {
+    "CountryQID": "Q26988",
+    "CountryNameEn": "Cook Islands",
+    "CountryNameAr": "جزر كوك",
+    "IsoAlpha2": "CK",
+    "CapitalQID": "Q170482"
+  },
+  "Q1014": {
+    "CountryQID": "Q1014",
+    "CountryNameEn": "Liberia",
+    "CountryNameAr": "ليبيريا",
+    "IsoAlpha2": "LR",
+    "CapitalQID": "Q3748"
+  },
+  "Q786": {
+    "CountryQID": "Q786",
+    "CountryNameEn": "Dominican Republic",
+    "CountryNameAr": "جمهورية الدومينيكان",
+    "IsoAlpha2": "DO",
+    "CapitalQID": "Q34820"
+  },
+  "Q811": {
+    "CountryQID": "Q811",
+    "CountryNameEn": "Nicaragua",
+    "CountryNameAr": "نيكاراغوا",
+    "IsoAlpha2": "NI",
+    "CapitalQID": "Q3274"
+  },
+  "Q1008": {
+    "CountryQID": "Q1008",
+    "CountryNameEn": "Ivory Coast",
+    "CountryNameAr": "ساحل العاج",
+    "IsoAlpha2": "CI",
+    "CapitalQID": "Q3768"
+  },
+  "Q224": {
+    "CountryQID": "Q224",
+    "CountryNameEn": "Croatia",
+    "CountryNameAr": "كرواتيا",
+    "IsoAlpha2": "HR",
+    "CapitalQID": "Q1435"
+  },
+  "Q241": {
+    "CountryQID": "Q241",
+    "CountryNameEn": "Cuba",
+    "CountryNameAr": "كوبا",
+    "IsoAlpha2": "CU",
+    "CapitalQID": "Q1563"
+  },
+  "Q25279": {
+    "CountryQID": "Q25279",
+    "CountryNameEn": "Curaçao",
+    "CountryNameAr": "كوراساو",
+    "IsoAlpha2": "CW",
+    "CapitalQID": "Q132679"
+  },
+  "Q229": {
+    "CountryQID": "Q229",
+    "CountryNameEn": "Cyprus",
+    "CountryNameAr": "قبرص",
+    "IsoAlpha2": "CY",
+    "CapitalQID": "Q3856"
+  },
+  "Q23681": {
+    "CountryQID": "Q23681",
+    "CountryNameEn": "Northern Cyprus",
+    "CountryNameAr": "قبرص الشمالية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q2762100"
+  },
+  "Q41": {
+    "CountryQID": "Q41",
+    "CountryNameEn": "Greece",
+    "CountryNameAr": "اليونان",
+    "IsoAlpha2": "GR",
+    "CapitalQID": "Q1524"
+  },
+  "Q2670751": {
+    "CountryQID": "Q2670751",
+    "CountryNameEn": "Margraviate of Moravia",
+    "CountryNameAr": null,
+    "IsoAlpha2": null,
+    "CapitalQID": "Q81137"
+  },
+  "Q2162698": {
+    "CountryQID": "Q2162698",
+    "CountryNameEn": "Duchy of Bohemia",
+    "CountryNameAr": "دوقية بوهيميا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q1085"
+  },
+  "Q35": {
+    "CountryQID": "Q35",
+    "CountryNameEn": "Denmark",
+    "CountryNameAr": "الدنمارك",
+    "IsoAlpha2": "DK",
+    "CapitalQID": "Q1748"
+  },
+  "Q34": {
+    "CountryQID": "Q34",
+    "CountryNameEn": "Sweden",
+    "CountryNameAr": "السويد",
+    "IsoAlpha2": "SE",
+    "CapitalQID": "Q1754"
+  },
+  "Q33": {
+    "CountryQID": "Q33",
+    "CountryNameEn": "Finland",
+    "CountryNameAr": "فنلندا",
+    "IsoAlpha2": "FI",
+    "CapitalQID": "Q1757"
+  },
+  "Q977": {
+    "CountryQID": "Q977",
+    "CountryNameEn": "Djibouti",
+    "CountryNameAr": "جيبوتي",
+    "IsoAlpha2": "DJ",
+    "CapitalQID": "Q3604"
+  },
+  "Q784": {
+    "CountryQID": "Q784",
+    "CountryNameEn": "Dominica",
+    "CountryNameAr": "دومينيكا",
+    "IsoAlpha2": "DM",
+    "CapitalQID": "Q36281"
+  },
+  "Q1029": {
+    "CountryQID": "Q1029",
+    "CountryNameEn": "Mozambique",
+    "CountryNameAr": "موزمبيق",
+    "IsoAlpha2": "MZ",
+    "CapitalQID": "Q3889"
+  },
+  "Q17": {
+    "CountryQID": "Q17",
+    "CountryNameEn": "Japan",
+    "CountryNameAr": "اليابان",
+    "IsoAlpha2": "JP",
+    "CapitalQID": "Q262438"
+  },
+  "Q179293": {
+    "CountryQID": "Q179293",
+    "CountryNameEn": "Kingdom of Castile",
+    "CountryNameAr": "مملكة قشتالة",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q9580"
+  },
+  "Q736": {
+    "CountryQID": "Q736",
+    "CountryNameEn": "Ecuador",
+    "CountryNameAr": "الإكوادور",
+    "IsoAlpha2": "EC",
+    "CapitalQID": "Q2900"
+  },
+  "Q801": {
+    "CountryQID": "Q801",
+    "CountryNameEn": "Israel",
+    "CountryNameAr": "إسرائيل",
+    "IsoAlpha2": "IL",
+    "CapitalQID": "Q1218"
+  },
+  "Q79": {
+    "CountryQID": "Q79",
+    "CountryNameEn": "Egypt",
+    "CountryNameAr": "مصر",
+    "IsoAlpha2": "EG",
+    "CapitalQID": "Q85"
+  },
+  "Q842": {
+    "CountryQID": "Q842",
+    "CountryNameEn": "Oman",
+    "CountryNameAr": "سلطنة عمان",
+    "IsoAlpha2": "OM",
+    "CapitalQID": "Q3826"
+  },
+  "Q219060": {
+    "CountryQID": "Q219060",
+    "CountryNameEn": "State of Palestine",
+    "CountryNameAr": "دولة فلسطين",
+    "IsoAlpha2": "PS",
+    "CapitalQID": "Q1218"
+  },
+  "Q846": {
+    "CountryQID": "Q846",
+    "CountryNameEn": "Qatar",
+    "CountryNameAr": "قطر",
+    "IsoAlpha2": "QA",
+    "CapitalQID": "Q3861"
+  },
+  "Q851": {
+    "CountryQID": "Q851",
+    "CountryNameEn": "Saudi Arabia",
+    "CountryNameAr": "السعودية",
+    "IsoAlpha2": "SA",
+    "CapitalQID": "Q3692"
+  },
+  "Q117": {
+    "CountryQID": "Q117",
+    "CountryNameEn": "Ghana",
+    "CountryNameAr": "غانا",
+    "IsoAlpha2": "GH",
+    "CapitalQID": "Q3761"
+  },
+  "Q792": {
+    "CountryQID": "Q792",
+    "CountryNameEn": "El Salvador",
+    "CountryNameAr": "السلفادور",
+    "IsoAlpha2": "SV",
+    "CapitalQID": "Q3110"
+  },
+  "Q774": {
+    "CountryQID": "Q774",
+    "CountryNameEn": "Guatemala",
+    "CountryNameAr": "غواتيمالا",
+    "IsoAlpha2": "GT",
+    "CapitalQID": "Q1555"
+  },
+  "Q148499": {
+    "CountryQID": "Q148499",
+    "CountryNameEn": "Margraviate of Brandenburg",
+    "CountryNameAr": "مرغريفية براندنبورغ",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q3931"
+  },
+  "Q983": {
+    "CountryQID": "Q983",
+    "CountryNameEn": "Equatorial Guinea",
+    "CountryNameAr": "غينيا الاستوائية",
+    "IsoAlpha2": "GQ",
+    "CapitalQID": "Q3818"
+  },
+  "Q986": {
+    "CountryQID": "Q986",
+    "CountryNameEn": "Eritrea",
+    "CountryNameAr": "إرتريا",
+    "IsoAlpha2": "ER",
+    "CapitalQID": "Q3642"
+  },
+  "Q191": {
+    "CountryQID": "Q191",
+    "CountryNameEn": "Estonia",
+    "CountryNameAr": "إستونيا",
+    "IsoAlpha2": "EE",
+    "CapitalQID": "Q1770"
+  },
+  "Q1050": {
+    "CountryQID": "Q1050",
+    "CountryNameEn": "Eswatini",
+    "CountryNameAr": "إسواتيني",
+    "IsoAlpha2": "SZ",
+    "CapitalQID": "Q101418"
+  },
+  "Q115": {
+    "CountryQID": "Q115",
+    "CountryNameEn": "Ethiopia",
+    "CountryNameAr": "إثيوبيا",
+    "IsoAlpha2": "ET",
+    "CapitalQID": "Q3624"
+  },
+  "Q730": {
+    "CountryQID": "Q730",
+    "CountryNameEn": "Suriname",
+    "CountryNameAr": "سورينام",
+    "IsoAlpha2": "SR",
+    "CapitalQID": "Q3001"
+  },
+  "Q4628": {
+    "CountryQID": "Q4628",
+    "CountryNameEn": "Faroe Islands",
+    "CountryNameAr": "جزر فارو",
+    "IsoAlpha2": "FO",
+    "CapitalQID": "Q10704"
+  },
+  "Q712": {
+    "CountryQID": "Q712",
+    "CountryNameEn": "Fiji",
+    "CountryNameAr": "فيجي",
+    "IsoAlpha2": "FJ",
+    "CapitalQID": "Q38807"
+  },
+  "Q155019": {
+    "CountryQID": "Q155019",
+    "CountryNameEn": "Duchy of Lorraine",
+    "CountryNameAr": "دوقية لورين",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q40898"
+  },
+  "Q170468": {
+    "CountryQID": "Q170468",
+    "CountryNameEn": "United Arab Republic",
+    "CountryNameAr": "الجمهورية العربية المتحدة",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q85"
+  },
+  "Q230": {
+    "CountryQID": "Q230",
+    "CountryNameEn": "Georgia",
+    "CountryNameAr": "جورجيا",
+    "IsoAlpha2": "GE",
+    "CapitalQID": "Q994"
+  },
+  "Q23427": {
+    "CountryQID": "Q23427",
+    "CountryNameEn": "South Ossetia",
+    "CountryNameAr": "أوسيتيا الجنوبية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q79863"
+  },
+  "Q12548": {
+    "CountryQID": "Q12548",
+    "CountryNameEn": "Holy Roman Empire",
+    "CountryNameAr": "الإمبراطورية الرومانية المقدسة",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q4178"
+  },
+  "Q1206012": {
+    "CountryQID": "Q1206012",
+    "CountryNameEn": "German Reich",
+    "CountryNameAr": "الرايخ الألماني",
+    "IsoAlpha2": null
+  },
+  "Q1410": {
+    "CountryQID": "Q1410",
+    "CountryNameEn": "Gibraltar",
+    "CountryNameAr": "جبل طارق",
+    "IsoAlpha2": "GI",
+    "CapitalQID": "Q1410"
+  },
+  "Q1016": {
+    "CountryQID": "Q1016",
+    "CountryNameEn": "Libya",
+    "CountryNameAr": "ليبيا",
+    "IsoAlpha2": "LY",
+    "CapitalQID": "Q3579"
+  },
+  "Q223": {
+    "CountryQID": "Q223",
+    "CountryNameEn": "Greenland",
+    "CountryNameAr": "جرينلاند",
+    "IsoAlpha2": "GL",
+    "CapitalQID": "Q226"
+  },
+  "Q769": {
+    "CountryQID": "Q769",
+    "CountryNameEn": "Grenada",
+    "CountryNameAr": "غرينادا",
+    "IsoAlpha2": "GD",
+    "CapitalQID": "Q41547"
+  },
+  "Q25230": {
+    "CountryQID": "Q25230",
+    "CountryNameEn": "Guernsey",
+    "CountryNameAr": "غيرنزي",
+    "IsoAlpha2": "GG",
+    "CapitalQID": "Q174262"
+  },
+  "Q1006": {
+    "CountryQID": "Q1006",
+    "CountryNameEn": "Guinea",
+    "CountryNameAr": "غينيا",
+    "IsoAlpha2": "GN",
+    "CapitalQID": "Q3733"
+  },
+  "Q912": {
+    "CountryQID": "Q912",
+    "CountryNameEn": "Mali",
+    "CountryNameAr": "مالي",
+    "IsoAlpha2": "ML",
+    "CapitalQID": "Q3703"
+  },
+  "Q1007": {
+    "CountryQID": "Q1007",
+    "CountryNameEn": "Guinea-Bissau",
+    "CountryNameAr": "غينيا بيساو",
+    "IsoAlpha2": "GW",
+    "CapitalQID": "Q3739"
+  },
+  "Q734": {
+    "CountryQID": "Q734",
+    "CountryNameEn": "Guyana",
+    "CountryNameAr": "غيانا",
+    "IsoAlpha2": "GY",
+    "CapitalQID": "Q10717"
+  },
+  "Q948": {
+    "CountryQID": "Q948",
+    "CountryNameEn": "Tunisia",
+    "CountryNameAr": "تونس",
+    "IsoAlpha2": "TN",
+    "CapitalQID": "Q3572"
+  },
+  "Q790": {
+    "CountryQID": "Q790",
+    "CountryNameEn": "Haiti",
+    "CountryNameAr": "هايتي",
+    "IsoAlpha2": "HT",
+    "CapitalQID": "Q34261"
+  },
+  "Q17070": {
+    "CountryQID": "Q17070",
+    "CountryNameEn": "Réunion",
+    "CountryNameAr": "ريونيون",
+    "IsoAlpha2": "RE",
+    "CapitalQID": "Q47045"
+  },
+  "Q783": {
+    "CountryQID": "Q783",
+    "CountryNameEn": "Honduras",
+    "CountryNameAr": "هندوراس",
+    "IsoAlpha2": "HN",
+    "CapitalQID": "Q3238"
+  },
+  "Q754": {
+    "CountryQID": "Q754",
+    "CountryNameEn": "Trinidad and Tobago",
+    "CountryNameAr": "ترينيداد وتوباغو",
+    "IsoAlpha2": "TT",
+    "CapitalQID": "Q39178"
+  },
+  "Q28": {
+    "CountryQID": "Q28",
+    "CountryNameEn": "Hungary",
+    "CountryNameAr": "المجر",
+    "IsoAlpha2": "HU",
+    "CapitalQID": "Q1781"
+  },
+  "Q237": {
+    "CountryQID": "Q237",
+    "CountryNameEn": "Vatican City",
+    "CountryNameAr": "الفاتيكان",
+    "IsoAlpha2": "VA"
+  },
+  "Q189": {
+    "CountryQID": "Q189",
+    "CountryNameEn": "Iceland",
+    "CountryNameAr": "آيسلندا",
+    "IsoAlpha2": "IS",
+    "CapitalQID": "Q1764"
+  },
+  "Q12560": {
+    "CountryQID": "Q12560",
+    "CountryNameEn": "Ottoman Empire",
+    "CountryNameAr": "الدولة العثمانية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q768506"
+  },
+  "Q796": {
+    "CountryQID": "Q796",
+    "CountryNameEn": "Iraq",
+    "CountryNameAr": "العراق",
+    "IsoAlpha2": "IQ",
+    "CapitalQID": "Q1530"
+  },
+  "Q232": {
+    "CountryQID": "Q232",
+    "CountryNameEn": "Kazakhstan",
+    "CountryNameAr": "كازاخستان",
+    "IsoAlpha2": "KZ",
+    "CapitalQID": "Q1520"
+  },
+  "Q810": {
+    "CountryQID": "Q810",
+    "CountryNameEn": "Jordan",
+    "CountryNameAr": "الأردن",
+    "IsoAlpha2": "JO",
+    "CapitalQID": "Q3805"
+  },
+  "Q174193": {
+    "CountryQID": "Q174193",
+    "CountryNameEn": "United Kingdom of Great Britain and Ireland",
+    "CountryNameAr": "المملكة المتحدة لبريطانيا العظمى وأيرلندا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q84"
+  },
+  "Q27": {
+    "CountryQID": "Q27",
+    "CountryNameEn": "Ireland",
+    "CountryNameAr": "جمهورية أيرلندا",
+    "IsoAlpha2": "IE",
+    "CapitalQID": "Q1761"
+  },
+  "Q9676": {
+    "CountryQID": "Q9676",
+    "CountryNameEn": "Isle of Man",
+    "CountryNameAr": "جزيرة مان",
+    "IsoAlpha2": "IM",
+    "CapitalQID": "Q18569"
+  },
+  "Q48685": {
+    "CountryQID": "Q48685",
+    "CountryNameEn": "Kingdom of Judah",
+    "CountryNameAr": "مملكة يهوذا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q1218"
+  },
+  "Q193714": {
+    "CountryQID": "Q193714",
+    "CountryNameEn": "Mandatory Palestine",
+    "CountryNameAr": "فلسطين الانتدابية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q1218"
+  },
+  "Q172579": {
+    "CountryQID": "Q172579",
+    "CountryNameEn": "Kingdom of Italy",
+    "CountryNameAr": "مملكة إيطاليا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q495"
+  },
+  "Q153529": {
+    "CountryQID": "Q153529",
+    "CountryNameEn": "Duchy of Milan",
+    "CountryNameAr": "دوقية ميلانو",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q490"
+  },
+  "Q1747689": {
+    "CountryQID": "Q1747689",
+    "CountryNameEn": "Ancient Rome",
+    "CountryNameAr": "روما القديمة",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q18287233"
+  },
+  "Q766": {
+    "CountryQID": "Q766",
+    "CountryNameEn": "Jamaica",
+    "CountryNameAr": "جامايكا",
+    "IsoAlpha2": "JM",
+    "CapitalQID": "Q34692"
+  },
+  "Q114": {
+    "CountryQID": "Q114",
+    "CountryNameEn": "Kenya",
+    "CountryNameAr": "كينيا",
+    "IsoAlpha2": "KE",
+    "CapitalQID": "Q3870"
+  },
+  "Q691": {
+    "CountryQID": "Q691",
+    "CountryNameEn": "Papua New Guinea",
+    "CountryNameAr": "بابوا غينيا الجديدة",
+    "IsoAlpha2": "PG",
+    "CapitalQID": "Q36526"
+  },
+  "Q1045": {
+    "CountryQID": "Q1045",
+    "CountryNameEn": "Somalia",
+    "CountryNameAr": "الصومال",
+    "IsoAlpha2": "SO",
+    "CapitalQID": "Q2449"
+  },
+  "Q1042": {
+    "CountryQID": "Q1042",
+    "CountryNameEn": "Seychelles",
+    "CountryNameAr": "سيشل",
+    "IsoAlpha2": "SC",
+    "CapitalQID": "Q3940"
+  },
+  "Q710": {
+    "CountryQID": "Q710",
+    "CountryNameEn": "Kiribati",
+    "CountryNameAr": "كيريباتي",
+    "IsoAlpha2": "KI",
+    "CapitalQID": "Q131233"
+  },
+  "Q1246": {
+    "CountryQID": "Q1246",
+    "CountryNameEn": "Kosovo",
+    "CountryNameAr": "كوسوفو",
+    "IsoAlpha2": "XK",
+    "CapitalQID": "Q25270"
+  },
+  "Q817": {
+    "CountryQID": "Q817",
+    "CountryNameEn": "Kuwait",
+    "CountryNameAr": "الكويت",
+    "IsoAlpha2": "KW",
+    "CapitalQID": "Q35178"
+  },
+  "Q813": {
+    "CountryQID": "Q813",
+    "CountryNameEn": "Kyrgyzstan",
+    "CountryNameAr": "قرغيزستان",
+    "IsoAlpha2": "KG",
+    "CapitalQID": "Q9361"
+  },
+  "Q212": {
+    "CountryQID": "Q212",
+    "CountryNameEn": "Ukraine",
+    "CountryNameAr": "أوكرانيا",
+    "IsoAlpha2": "UA",
+    "CapitalQID": "Q1899"
+  },
+  "Q863": {
+    "CountryQID": "Q863",
+    "CountryNameEn": "Tajikistan",
+    "CountryNameAr": "طاجيكستان",
+    "IsoAlpha2": "TJ",
+    "CapitalQID": "Q9365"
+  },
+  "Q819": {
+    "CountryQID": "Q819",
+    "CountryNameEn": "Laos",
+    "CountryNameAr": "لاوس",
+    "IsoAlpha2": "LA",
+    "CapitalQID": "Q9326"
+  },
+  "Q211": {
+    "CountryQID": "Q211",
+    "CountryNameEn": "Latvia",
+    "CountryNameAr": "لاتفيا",
+    "IsoAlpha2": "LV",
+    "CapitalQID": "Q1773"
+  },
+  "Q822": {
+    "CountryQID": "Q822",
+    "CountryNameEn": "Lebanon",
+    "CountryNameAr": "لبنان",
+    "IsoAlpha2": "LB",
+    "CapitalQID": "Q3820"
+  },
+  "Q1013": {
+    "CountryQID": "Q1013",
+    "CountryNameEn": "Lesotho",
+    "CountryNameAr": "ليسوتو",
+    "IsoAlpha2": "LS",
+    "CapitalQID": "Q3909"
+  },
+  "Q664": {
+    "CountryQID": "Q664",
+    "CountryNameEn": "New Zealand",
+    "CountryNameAr": "نيوزيلندا",
+    "IsoAlpha2": "NZ",
+    "CapitalQID": "Q23661"
+  },
+  "Q347": {
+    "CountryQID": "Q347",
+    "CountryNameEn": "Liechtenstein",
+    "CountryNameAr": "ليختنشتاين",
+    "IsoAlpha2": "LI",
+    "CapitalQID": "Q1844"
+  },
+  "Q37": {
+    "CountryQID": "Q37",
+    "CountryNameEn": "Lithuania",
+    "CountryNameAr": "ليتوانيا",
+    "IsoAlpha2": "LT",
+    "CapitalQID": "Q216"
+  },
+  "Q869": {
+    "CountryQID": "Q869",
+    "CountryNameEn": "Thailand",
+    "CountryNameAr": "تايلاند",
+    "IsoAlpha2": "TH",
+    "CapitalQID": "Q1861"
+  },
+  "Q32": {
+    "CountryQID": "Q32",
+    "CountryNameEn": "Luxembourg",
+    "CountryNameAr": "لوكسمبورغ",
+    "IsoAlpha2": "LU",
+    "CapitalQID": "Q1842"
+  },
+  "Q1019": {
+    "CountryQID": "Q1019",
+    "CountryNameEn": "Madagascar",
+    "CountryNameAr": "مدغشقر",
+    "IsoAlpha2": "MG",
+    "CapitalQID": "Q3915"
+  },
+  "Q833": {
+    "CountryQID": "Q833",
+    "CountryNameEn": "Malaysia",
+    "CountryNameAr": "ماليزيا",
+    "IsoAlpha2": "MY",
+    "CapitalQID": "Q1865"
+  },
+  "Q826": {
+    "CountryQID": "Q826",
+    "CountryNameEn": "Maldives",
+    "CountryNameAr": "المالديف",
+    "IsoAlpha2": "MV",
+    "CapitalQID": "Q9347"
+  },
+  "Q1005": {
+    "CountryQID": "Q1005",
+    "CountryNameEn": "The Gambia",
+    "CountryNameAr": "غامبيا",
+    "IsoAlpha2": "GM",
+    "CapitalQID": "Q3726"
+  },
+  "Q233": {
+    "CountryQID": "Q233",
+    "CountryNameEn": "Malta",
+    "CountryNameAr": "مالطا",
+    "IsoAlpha2": "MT",
+    "CapitalQID": "Q23800"
+  },
+  "Q709": {
+    "CountryQID": "Q709",
+    "CountryNameEn": "Marshall Islands",
+    "CountryNameAr": "جزر مارشال",
+    "IsoAlpha2": "MH",
+    "CapitalQID": "Q12919"
+  },
+  "Q1025": {
+    "CountryQID": "Q1025",
+    "CountryNameEn": "Mauritania",
+    "CountryNameAr": "موريتانيا",
+    "IsoAlpha2": "MR",
+    "CapitalQID": "Q3688"
+  },
+  "Q1027": {
+    "CountryQID": "Q1027",
+    "CountryNameEn": "Mauritius",
+    "CountryNameAr": "موريشيوس",
+    "IsoAlpha2": "MU",
+    "CapitalQID": "Q3929"
+  },
+  "Q217": {
+    "CountryQID": "Q217",
+    "CountryNameEn": "Moldova",
+    "CountryNameAr": "مولدوفا",
+    "IsoAlpha2": "MD",
+    "CapitalQID": "Q21197"
+  },
+  "Q235": {
+    "CountryQID": "Q235",
+    "CountryNameEn": "Monaco",
+    "CountryNameAr": "موناكو",
+    "IsoAlpha2": "MC",
+    "CapitalQID": "Q55115"
+  },
+  "Q236": {
+    "CountryQID": "Q236",
+    "CountryNameEn": "Montenegro",
+    "CountryNameAr": "الجبل الأسود",
+    "IsoAlpha2": "ME",
+    "CapitalQID": "Q23564"
+  },
+  "Q6250": {
+    "CountryQID": "Q6250",
+    "CountryNameEn": "Western Sahara",
+    "CountryNameAr": "الصحراء الغربية",
+    "IsoAlpha2": "EH"
+  },
+  "Q697": {
+    "CountryQID": "Q697",
+    "CountryNameEn": "Nauru",
+    "CountryNameAr": "ناورو",
+    "IsoAlpha2": "NR",
+    "CapitalQID": "Q31026"
+  },
+  "Q34020": {
+    "CountryQID": "Q34020",
+    "CountryNameEn": "Niue",
+    "CountryNameAr": "نييوي",
+    "IsoAlpha2": "NU",
+    "CapitalQID": "Q30966"
+  },
+  "Q221": {
+    "CountryQID": "Q221",
+    "CountryNameEn": "North Macedonia",
+    "CountryNameAr": "مقدونيا الشمالية",
+    "IsoAlpha2": "MK",
+    "CapitalQID": "Q384"
+  },
+  "Q695": {
+    "CountryQID": "Q695",
+    "CountryNameEn": "Palau",
+    "CountryNameAr": "بالاو",
+    "IsoAlpha2": "PW",
+    "CapitalQID": "Q515229"
+  },
+  "Q1183": {
+    "CountryQID": "Q1183",
+    "CountryNameEn": "Puerto Rico",
+    "CountryNameAr": "بورتوريكو",
+    "IsoAlpha2": "PR",
+    "CapitalQID": "Q41211"
+  },
+  "Q577867": {
+    "CountryQID": "Q577867",
+    "CountryNameEn": "Kingdom of Poland",
+    "CountryNameAr": "مملكة بولندا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q51432"
+  },
+  "Q27306": {
+    "CountryQID": "Q27306",
+    "CountryNameEn": "Kingdom of Prussia",
+    "CountryNameAr": "مملكة بروسيا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q64"
+  },
+  "Q211274": {
+    "CountryQID": "Q211274",
+    "CountryNameEn": "Polish People's Republic",
+    "CountryNameAr": "جمهورية بولندا الشعبية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q37333"
+  },
+  "Q41304": {
+    "CountryQID": "Q41304",
+    "CountryNameEn": "Weimar Republic",
+    "CountryNameAr": "جمهورية فايمار",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q64"
+  },
+  "Q389004": {
+    "CountryQID": "Q389004",
+    "CountryNameEn": "Wallachia",
+    "CountryNameAr": "الأفلاق",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q736296"
+  },
+  "Q203493": {
+    "CountryQID": "Q203493",
+    "CountryNameEn": "Kingdom of Romania",
+    "CountryNameAr": "مملكة رومانيا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q19660"
+  },
+  "Q171150": {
+    "CountryQID": "Q171150",
+    "CountryNameEn": "Kingdom of Hungary",
+    "CountryNameAr": "مملكة المجر",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q1781"
+  },
+  "Q153136": {
+    "CountryQID": "Q153136",
+    "CountryNameEn": "Habsburg monarchy",
+    "CountryNameAr": "ملكية هابسبورغ",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q1741"
+  },
+  "Q11750528": {
+    "CountryQID": "Q11750528",
+    "CountryNameEn": "Duchy of Moscow",
+    "CountryNameAr": null,
+    "IsoAlpha2": null,
+    "CapitalQID": "Q649"
+  },
+  "Q186096": {
+    "CountryQID": "Q186096",
+    "CountryNameEn": "Tsardom of Russia",
+    "CountryNameAr": "روسيا القيصرية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q649"
+  },
+  "Q156020": {
+    "CountryQID": "Q156020",
+    "CountryNameEn": "State of the Teutonic Order",
+    "CountryNameAr": "إمارة نظام التيوتون",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q71279"
+  },
+  "Q760": {
+    "CountryQID": "Q760",
+    "CountryNameEn": "Saint Lucia",
+    "CountryNameAr": "سانت لوسيا",
+    "IsoAlpha2": "LC",
+    "CapitalQID": "Q41699"
+  },
+  "Q757": {
+    "CountryQID": "Q757",
+    "CountryNameEn": "Saint Vincent and the Grenadines",
+    "CountryNameAr": "سانت فينسنت والغرينادين",
+    "IsoAlpha2": "VC",
+    "CapitalQID": "Q41474"
+  },
+  "Q683": {
+    "CountryQID": "Q683",
+    "CountryNameEn": "Samoa",
+    "CountryNameAr": "ساموا",
+    "IsoAlpha2": "WS",
+    "CapitalQID": "Q36260"
+  },
+  "Q238": {
+    "CountryQID": "Q238",
+    "CountryNameEn": "San Marino",
+    "CountryNameAr": "سان مارينو",
+    "IsoAlpha2": "SM",
+    "CapitalQID": "Q1848"
+  },
+  "Q1039": {
+    "CountryQID": "Q1039",
+    "CountryNameEn": "São Tomé and Príncipe",
+    "CountryNameAr": "ساو تومي وبرينسيب",
+    "IsoAlpha2": "ST",
+    "CapitalQID": "Q3932"
+  },
+  "Q1041": {
+    "CountryQID": "Q1041",
+    "CountryNameEn": "Senegal",
+    "CountryNameAr": "السنغال",
+    "IsoAlpha2": "SN",
+    "CapitalQID": "Q3718"
+  },
+  "Q1044": {
+    "CountryQID": "Q1044",
+    "CountryNameEn": "Sierra Leone",
+    "CountryNameAr": "سيراليون",
+    "IsoAlpha2": "SL",
+    "CapitalQID": "Q3780"
+  },
+  "Q8680": {
+    "CountryQID": "Q8680",
+    "CountryNameEn": "British Empire",
+    "CountryNameAr": "الإمبراطورية البريطانية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q84"
+  },
+  "Q26273": {
+    "CountryQID": "Q26273",
+    "CountryNameEn": "Sint Maarten",
+    "CountryNameAr": "سينت مارتن",
+    "IsoAlpha2": "SX",
+    "CapitalQID": "Q30958"
+  },
+  "Q214": {
+    "CountryQID": "Q214",
+    "CountryNameEn": "Slovakia",
+    "CountryNameAr": "سلوفاكيا",
+    "IsoAlpha2": "SK",
+    "CapitalQID": "Q1780"
+  },
+  "Q154401": {
+    "CountryQID": "Q154401",
+    "CountryNameEn": "Slovak Republic",
+    "CountryNameAr": "جمهورية سلوفاكيا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q1780"
+  },
+  "Q215": {
+    "CountryQID": "Q215",
+    "CountryNameEn": "Slovenia",
+    "CountryNameAr": "سلوفينيا",
+    "IsoAlpha2": "SI",
+    "CapitalQID": "Q437"
+  },
+  "Q34754": {
+    "CountryQID": "Q34754",
+    "CountryNameEn": "Somaliland",
+    "CountryNameAr": "صوماليلاند",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q168652"
+  },
+  "Q258": {
+    "CountryQID": "Q258",
+    "CountryNameEn": "South Africa",
+    "CountryNameAr": "جنوب إفريقيا",
+    "IsoAlpha2": "ZA",
+    "CapitalQID": "Q3926"
+  },
+  "Q958": {
+    "CountryQID": "Q958",
+    "CountryNameEn": "South Sudan",
+    "CountryNameAr": "جنوب السودان",
+    "IsoAlpha2": "SS",
+    "CapitalQID": "Q1947"
+  },
+  "Q854": {
+    "CountryQID": "Q854",
+    "CountryNameEn": "Sri Lanka",
+    "CountryNameAr": "سريلانكا",
+    "IsoAlpha2": "LK",
+    "CapitalQID": "Q41963"
+  },
+  "Q1049": {
+    "CountryQID": "Q1049",
+    "CountryNameEn": "Sudan",
+    "CountryNameAr": "السودان",
+    "IsoAlpha2": "SD",
+    "CapitalQID": "Q1963"
+  },
+  "Q265": {
+    "CountryQID": "Q265",
+    "CountryNameEn": "Uzbekistan",
+    "CountryNameAr": "أوزبكستان",
+    "IsoAlpha2": "UZ",
+    "CapitalQID": "Q269"
+  },
+  "Q574": {
+    "CountryQID": "Q574",
+    "CountryNameEn": "Timor-Leste",
+    "CountryNameAr": "تيمور الشرقية",
+    "IsoAlpha2": "TL",
+    "CapitalQID": "Q9310"
+  },
+  "Q945": {
+    "CountryQID": "Q945",
+    "CountryNameEn": "Togo",
+    "CountryNameAr": "توغو",
+    "IsoAlpha2": "TG",
+    "CapitalQID": "Q3792"
+  },
+  "Q43287": {
+    "CountryQID": "Q43287",
+    "CountryNameEn": "German Empire",
+    "CountryNameAr": "الإمبراطورية الألمانية",
+    "IsoAlpha2": null
+  },
+  "Q678": {
+    "CountryQID": "Q678",
+    "CountryNameEn": "Tonga",
+    "CountryNameAr": "تونغا",
+    "IsoAlpha2": "TO",
+    "CapitalQID": "Q38834"
+  },
+  "Q686": {
+    "CountryQID": "Q686",
+    "CountryNameEn": "Vanuatu",
+    "CountryNameAr": "فانواتو",
+    "IsoAlpha2": "VU",
+    "CapitalQID": "Q37806"
+  },
+  "Q874": {
+    "CountryQID": "Q874",
+    "CountryNameEn": "Turkmenistan",
+    "CountryNameAr": "تركمانستان",
+    "IsoAlpha2": "TM",
+    "CapitalQID": "Q23438"
+  },
+  "Q672": {
+    "CountryQID": "Q672",
+    "CountryNameEn": "Tuvalu",
+    "CountryNameAr": "توفالو",
+    "IsoAlpha2": "TV",
+    "CapitalQID": "Q34126"
+  },
+  "Q49683": {
+    "CountryQID": "Q49683",
+    "CountryNameEn": "Grand Duchy of Lithuania",
+    "CountryNameAr": "دوقية ليتوانيا الكبرى",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q216"
+  },
+  "Q171348": {
+    "CountryQID": "Q171348",
+    "CountryNameEn": "Crown of the Kingdom of Poland",
+    "CountryNameAr": "تاج مملكة بولندا",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q31487"
+  },
+  "Q878": {
+    "CountryQID": "Q878",
+    "CountryNameEn": "United Arab Emirates",
+    "CountryNameAr": "الإمارات العربية المتحدة",
+    "IsoAlpha2": "AE",
+    "CapitalQID": "Q1519"
+  },
+  "Q4453007": {
+    "CountryQID": "Q4453007",
+    "CountryNameEn": "Tashkent Khanate",
+    "CountryNameAr": null,
+    "IsoAlpha2": null,
+    "CapitalQID": "Q269"
+  },
+  "Q881": {
+    "CountryQID": "Q881",
+    "CountryNameEn": "Vietnam",
+    "CountryNameAr": "فيتنام",
+    "IsoAlpha2": "VN",
+    "CapitalQID": "Q1858"
+  },
+  "Q180573": {
+    "CountryQID": "Q180573",
+    "CountryNameEn": "Republic of Vietnam",
+    "CountryNameAr": "فيتنام الجنوبية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q105076255"
+  },
+  "Q12544": {
+    "CountryQID": "Q12544",
+    "CountryNameEn": "Byzantine Empire",
+    "CountryNameAr": "الإمبراطورية البيزنطية",
+    "IsoAlpha2": null,
+    "CapitalQID": "Q16869"
+  },
+  "Q199841": {
+    "CountryQID": "Q199841",
+    "CountryNameEn": "Democratic Yemen",
+    "CountryNameAr": "اليمن الديمقراطي",
+    "IsoAlpha2": "YD",
+    "CapitalQID": "Q131694"
+  },
+  "Q954": {
+    "CountryQID": "Q954",
+    "CountryNameEn": "Zimbabwe",
+    "CountryNameAr": "زيمبابوي",
+    "IsoAlpha2": "ZW",
+    "CapitalQID": "Q3921"
+  }
+}
